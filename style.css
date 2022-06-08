@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(4, 78, 94);
+}
+
+.title-text{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 7rem;
+    color: white;
+}
+
+.refresh{
+    color: red;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 4rem;
+    color: white;
+}
+
+.row{
+    margin-top: 10px;
+}
+
+.col{
+    text-align: center;
+}
+
+.flag1{
+    width: 130px;
+    visibility: hidden;
+}
+
+.flag2{
+    width: 130px;
+    visibility: hidden;
+}
+
+#image-div1{
+    padding-left: 20%;
+}
+
+#image-div2{
+    padding-right: 35%;
+}
+
+.img1{
+    width: 400px;
+}
+.img2{
+    width: 400px;
+}
+
+.winner{
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 7rem;
+    color: gold;
+}
+
+p{
+    text-align: right;
+    color: rgb(188, 188, 188);
+    margin-right: 30px;
+}
